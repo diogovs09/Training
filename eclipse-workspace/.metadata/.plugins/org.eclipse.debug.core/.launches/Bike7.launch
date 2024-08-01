@@ -11,7 +11,7 @@
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="testing_javatpoint.Bike7"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="javatpoint_basics.Bike7"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="CognizantRevEng"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="CognizantRevEng"/>
 </launchConfiguration>
