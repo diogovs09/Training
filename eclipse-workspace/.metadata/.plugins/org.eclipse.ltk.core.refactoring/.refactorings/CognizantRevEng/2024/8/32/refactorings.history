@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;javatpoint_multithreading.JoinMethod.java&apos; to &apos;ThreadJoin.java&apos;&#x0D;&#x0A;- Original project: &apos;CognizantRevEng&apos;&#x0D;&#x0A;- Original element: &apos;javatpoint_multithreading.JoinMethod.java&apos;&#x0D;&#x0A;- Renamed element: &apos;javatpoint_multithreading.ThreadJoin.java&apos;" description="Rename compilation unit &apos;JoinMethod.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;javatpoint_multithreading{JoinMethod.java" name="ThreadJoin.java" references="false" stamp="1722860650738" version="1.0"/>
+</session>
